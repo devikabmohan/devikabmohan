@@ -17,9 +17,10 @@
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  React | JavaScript | HTML | CSS
+  JavaScript | C++ | React | HTML | CSS | Next.js | Node.js | Express.js | Electron
 - **Databases & Backend:**  
   Experience working with databases and backend development.
+  MongoDB | MySQL 
 
 ---
 
@@ -28,6 +29,7 @@
 - Dance 💃
 - Painting 🎨
 - Portrait Drawing 🖊️
+- Video Hosting 📽️
 
 ---
 
