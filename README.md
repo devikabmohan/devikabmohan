@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Devika B Mohan!
 
-🌈 **Aspiring Web Developer | Creative Coder | Artist**
+🌈 **Web Developer | Mentor | Creative Coder | Artist**
 
 ---
 
 ## About Me
 
-> "An aspiring web developer ready to collaborate on creating creative and enticing applications."
+> "A web developer/trainer ready to collaborate on creating creative and enticing applications."
 
 - 🧑‍💻 Software Developer passionate about building visually appealing and functional web experiences.
 - 💡 Always eager to learn and experiment with new technologies.
@@ -30,6 +30,7 @@
 - Painting 🎨
 - Portrait Drawing 🖊️
 - Video Hosting 📽️
+- Graphic Designing
 
 ---
 
